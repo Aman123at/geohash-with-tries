@@ -1,0 +1,36 @@
+{
+  "lat": 19.07609,
+  "lon": 72.877426,
+  "placeData": [
+    {
+      "name": "Gateway of India",
+      "latitude": 18.922002,
+      "longitude": 72.837783
+    },
+    { "name": "Juhu Beach", "latitude": 19.075985, "longitude": 72.843816 },
+    { "name": "Marine Drive", "latitude": 18.920414, "longitude": 72.835517 },
+    {
+      "name": "Elephanta Caves",
+      "latitude": 18.963012,
+      "longitude": 72.890401
+    },
+    {
+      "name": "Sanjay Gandhi National Park",
+      "latitude": 19.112514,
+      "longitude": 72.864211
+    },
+    { "name": "Bandra Fort", "latitude": 19.041002, "longitude": 72.839835 },
+    {
+      "name": "Colaba Causeway",
+      "latitude": 18.922908,
+      "longitude": 72.837129
+    },
+    {
+      "name": "Haji Ali Dargah",
+      "latitude": 18.924459,
+      "longitude": 72.833873
+    },
+    { "name": "Essel World", "latitude": 19.118528, "longitude": 72.891479 },
+    { "name": "Kanheri Caves", "latitude": 19.140275, "longitude": 72.872463 }
+  ]
+}

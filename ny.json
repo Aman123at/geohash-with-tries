@@ -1,0 +1,28 @@
+{
+  "lat": 40.7128,
+  "lon": -74.006,
+  "placeData": [
+    { "name": "Statue of Liberty", "latitude": 40.6892, "longitude": -74.0445 },
+    { "name": "Central Park", "latitude": 40.7851, "longitude": -73.9683 },
+    {
+      "name": "Empire State Building",
+      "latitude": 40.7484,
+      "longitude": -73.9857
+    },
+    { "name": "Times Square", "latitude": 40.758, "longitude": -73.9855 },
+    { "name": "Brooklyn Bridge", "latitude": 40.7061, "longitude": -73.9969 },
+    {
+      "name": "Grand Central Terminal",
+      "latitude": 40.7527,
+      "longitude": -73.9772
+    },
+    {
+      "name": "Metropolitan Museum of Art",
+      "latitude": 40.7794,
+      "longitude": -73.9632
+    },
+    { "name": "Yankee Stadium", "latitude": 40.8296, "longitude": -73.9262 },
+    { "name": "Coney Island", "latitude": 40.5749, "longitude": -73.985 },
+    { "name": "JFK Airport", "latitude": 40.6413, "longitude": -73.7781 }
+  ]
+}
